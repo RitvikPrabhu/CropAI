@@ -3,6 +3,7 @@
 /CropImages/cropTest4Presentation2.ipynb
 /RawData/
 /CroppedImageData/
+/FeaturesExtraction/ResNet18Features/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
